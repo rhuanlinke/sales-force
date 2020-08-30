@@ -1,16 +1,7 @@
 {
-  "orgName": "Demo company",
+  "orgName": "Account Geolocation App",
   "edition": "Developer",
-  "features": [],
   "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
-    },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
     }
